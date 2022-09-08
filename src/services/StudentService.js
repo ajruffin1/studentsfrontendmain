@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const STUDENT_BASE_REST_API_URL = 'http://localhost:8080/students';
+const STUDENT_BASE_REST_API_URL = 'http://studentsbackendmain.herokuapp.com/';
 //const STUDENT_BASE_REST_API = 'http://localhost:8080/studentsCreate';
 
 class StudentService{
